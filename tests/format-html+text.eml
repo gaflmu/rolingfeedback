@@ -1,0 +1,123 @@
+Return-Path: <skruppy@fs.lmu.de>
+Delivered-To: <skrupellos@fs.lmu.de>
+Delivery-date: Sat, 19 Jul 2014 20:27:10 +0200
+Received: from universe.homenet.org (dslb-084-056-023-023.pools.arcor-ip.net [84.56.23.23])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by medhurst.fs.lmu.de (Postfix) with ESMTPSA id 8995E40E32D
+	for <skruppy@fs.lmu.de>; Sat, 19 Jul 2014 20:30:02 +0200 (CEST)
+Received: from universe.homenet.org (authenticated user)
+	by universe.homenet.org (Exim) 
+	with ESMTPSA (TLSv1:DHE-RSA-AES128-SHA:128) (envelope-from <skruppy@fs.lmu.de>)
+	for skruppy@fs.lmu.de; Sat, 19 Jul 2014 20:27:07 +0200
+Message-ID: <53CAB887.7020703@fs.lmu.de>
+Date: Sat, 19 Jul 2014 20:27:19 +0200
+From: Skruppy <skruppy@fs.lmu.de>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: RNVS <rnvs@feedback.fs.lmu.de>
+Content-Type: multipart/alternative;
+ boundary="------------010808070509080609020009"
+X-Virus-Scanned: by clamav
+X-Spam-Flag: NO
+X-Spam-Score: 1.1
+X-Spam-Score-int: 11
+X-Spam-Bar: +
+X-Spam-Status: No, score=1.1 required=5.0
+
+This is a multi-part message in MIME format.
+--------------010808070509080609020009
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo
+Zeilenumbruch
+
+Bla*fett fett/*/*kursiv* kursiv/
+
+  * Das
+  * muss
+  * so
+
+ 1. Denn
+ 2. das
+    Neue Zeile
+ 3. blaa
+
+Zentriertes :-D   Smilie
+
+Viele Absätze kommen:
+
+
+
+
+
+
+
+Code
+
+if(foo) {
+
+bar
+
+}
+
+-- 
+Send by my fucking phone
+
+
+--------------010808070509080609020009
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    Hallo<br>
+    Zeilenumbruch<br>
+    <br>
+    Bla<b> fett fett/</b><i><b>kursiv</b> kursiv</i><br>
+    <a href="https://gaf.fs.lmu.de/">The best</a><br>.
+    <ul>
+      <li>Das</li>
+      <li>muss</li>
+      <li>so</li>
+    </ul>
+    <ol>
+      <li>Denn</li>
+      <li>das<br>
+        Neue Zeile<br>
+      </li>
+      <li>blaa</li>
+    </ol>
+    <p align="center">Zentriertes <span class="moz-smiley-s5"><span>
+          :-D&nbsp;&nbsp; </span></span> Smilie<br>
+    </p>
+    <p>Viele Abs&auml;tze kommen:<br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+      <br>
+    </p>
+    <p><br>
+      Code<br>
+    </p>
+    <pre>if(foo) {</pre>
+    <pre>bar</pre>
+    <pre>}</pre>
+
+<p>-- </p>
+<p>Send by my fucking phone</p>
+    <p></p>
+  </body>
+</html>
+
+--------------010808070509080609020009--
